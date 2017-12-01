@@ -14,7 +14,7 @@ max_retries: 5                 # retry times for crawling
 # You should set the args below if you login from uncommon place
 # It's for verification code indentified
 yundama_username: catying           # account for yundama
-yundama_passwd: 465132798b~             # password for yundama
+yundama_passwd: *******            # password for yundama
 
 
 # The value of running_mode can be normal or quick.
